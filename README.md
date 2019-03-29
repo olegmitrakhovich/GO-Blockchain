@@ -3,6 +3,8 @@ Basic blockchain written in GO Lang
 
 go run main.go
 
+use postman to add new blocks
+
 http://localhost:8080/
 
 Example:
