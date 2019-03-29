@@ -8,6 +8,7 @@ http://localhost:8080/
 Example:
 
 [
+
   {
     "Index": 0,
     "Timestamp": "2019-03-29 15:52:32.2967817 -0400 EDT m=+0.003987801",
@@ -63,4 +64,5 @@ Example:
     "Hash": "8b98ebc25287cbd97dbc08db22b478ebc49bf5da65c9952e964b5fc61fffc13a",
     "PrevHash": "2c467cfb84be1bc6347df390199e1f034ec5ce77e78f9ec785a74b13022f2558"
   }
+  
 ]
