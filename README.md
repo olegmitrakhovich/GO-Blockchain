@@ -1,6 +1,20 @@
 # GO-Blockchain
 Basic blockchain written in GO Lang
 
+mkdir bin
+
+mkdir pkg
+
+mkdir src
+
+create a file ".env" inside the file "ADDR=8080" save it
+
+go get github.com/davecgh/go-spew/spew
+
+go get github.com/gorilla/mux
+
+go get github.com/joho/godotenv
+
 go run main.go
 
 use postman to add new blocks
